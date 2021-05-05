@@ -1,4 +1,4 @@
-### Welcome to my profile, thanks for coming! I'm a passionate Elixir programmer, currently studying Software Engineering at UNAERP 🇧🇷. 
+### Hey you! Welcome to my profile, thanks for coming! My name is Rafael Antunes and I'm a passionate Elixir programmer, currently studying Software Engineering at UNAERP 🇧🇷. 
 I have experience in RESTful APIs, Elixir, Phoenix, LiveView, Ecto, JavaScript, React.js and PostgreSQL.
 
 
