@@ -12,4 +12,4 @@ I have experience in RESTful APIs, Elixir, Phoenix, LiveView, Ecto, JavaScript, 
 
 #
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/devrafaelantunes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrafaelantunes)](https://github.com/devrafaelantunes/github-readme-stats)
