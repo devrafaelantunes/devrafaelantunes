@@ -7,7 +7,7 @@ I have experience in RESTful APIs, Elixir, Phoenix, LiveView, Ecto, JavaScript, 
 
 
 - Contact me through my email: dev@rafaelantun.es
-- Check out my blog: rafaelantunes.com.br
+- Check out my blog: https://rafaelantunes.com.br
 
 
 #
